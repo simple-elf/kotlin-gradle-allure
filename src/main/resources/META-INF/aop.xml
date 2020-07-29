@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aspectj>
+    <weaver>
+        <include within="io.qameta..*" />
+        <include within="org.junit..*" />
+        <include within="org.assertj..*" />
+        <include within="io.petstore..*" />
+    </weaver>
+</aspectj>

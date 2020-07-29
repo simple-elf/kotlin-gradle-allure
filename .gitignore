@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Project exclude paths
+/.allure/
+/.gradle/
+/build/
+/build/classes/java/main/

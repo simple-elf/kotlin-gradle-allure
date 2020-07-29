@@ -1,0 +1,8 @@
+<aspectj>
+    <weaver options="-warn:none -Xlint:ignore"/>
+    <aspects>
+        <!--<aspect name="io.qameta.allure.assertj.AllureAspectJ2"/>-->
+        <aspect name="io.qameta.allure.junit5assert.AllureJunit5Assert2"/>
+        <!--<aspect name="io.qameta.allure.junit5assert.AllureJunit5Assert3"/>-->
+    </aspects>
+</aspectj>
